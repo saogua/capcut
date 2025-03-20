@@ -36,7 +36,7 @@ https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_7_6_0_12636_jiany
 https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_7_7_0_12666_jianyingpro_0_creatortool.exe
 https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_7_8_0_12714_jianyingpro_0_creatortool.exe
 https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_7_8_0_12775_jianyingpro_0_creatortool.exe
-
+https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_7_9_0_12811_jianyingpro_0_creatortool.exe
 
 capcut(国际版):
 https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_1_2152_capcutpc_0_creatortool.exe
